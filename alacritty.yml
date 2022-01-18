@@ -59,3 +59,8 @@ colors: *tokyo-night
 # The value `0.0` is completely transparent and `1.0` is opaque.
 background_opacity: 0.95
 
+cursor:
+  style:
+    shape: Underline
+  vi_mode_style:
+    shape: Block
